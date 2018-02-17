@@ -1,0 +1,8 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:Grim-Jokes/quantum-api.git
+	branch = develop
+[submodule "ui"]
+	path = ui
+	url = git@github.com:Grim-Jokes/quantum-ui.git
+	branch = develop

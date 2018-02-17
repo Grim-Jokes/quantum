@@ -1,0 +1,8 @@
+[submodule "quantum-ui"]
+	path = quantum-ui
+	url = git@github.com:Grim-Jokes/quantum-ui.git
+	branch = master
+[submodule "quantum-api"]
+	path = quantum-api
+	url = git@github.com:Grim-Jokes/quantum-api.git
+	branch = master
